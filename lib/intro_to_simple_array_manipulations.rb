@@ -10,3 +10,5 @@ def using_pop (array)
   popped_element = array.pop 
   return popped_element
 end 
+
+def pop_with_args()
